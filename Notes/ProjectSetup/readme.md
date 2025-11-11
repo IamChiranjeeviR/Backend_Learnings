@@ -154,7 +154,7 @@ We can now write:
 import express from 'express';
 ```
 
-- Then, under `"scrips"` you can remove `"test"` if you need. Then add `"server": "nodemon server.js"` like shown below:
+- Then, under `"scripts"` add `"server": "nodemon server.js"` like shown below:
 
 ```json
 {

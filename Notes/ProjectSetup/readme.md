@@ -180,5 +180,7 @@ import express from 'express';
 
 ##### Next, I will be helping you how to create a Server using `ExpressJs`.
 
+[Click here](https://iamchiranjeevir.github.io/Backend_Learnings/Notes/Creating%20Server/) to access next notes on how to create a simple `Express` server.
+
 <br> <br>
 <br> <br>

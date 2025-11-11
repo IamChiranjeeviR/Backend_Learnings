@@ -165,12 +165,16 @@ import express from 'express';
 }
 ```
 
-#### What this does:
+- #### What this does:
 
 - `node server.js` → Runs your server **once** (classic way).
 - `nodemon server.js` → Runs your server **continuously**, automatically restarting whenever you save changes.
 
 > That’s why this `"server"` script is super helpful during development — you don’t need to manually stop and restart the server every time you change code.
+
+---
+
+<br> <br>
 
 #### 🎉 Hurray! We have completed the backend setup by installing necessary packages wee need.
 

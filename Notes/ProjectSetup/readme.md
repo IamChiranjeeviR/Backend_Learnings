@@ -150,7 +150,7 @@ const express = require('express');
 
 We can now write:
 
-```bash
+```javascript
 import express from 'express';
 ```
 
